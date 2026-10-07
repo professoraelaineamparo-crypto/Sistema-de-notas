@@ -1,0 +1,8 @@
+{
+  "name": "Remix Diário do Professor - Gestão Escolar",
+  "description": "Sistema completo para professores: gestão de anos letivos, turmas, alunos, frequência diária, registro de conteúdos, avaliações, mapa de notas e relatórios de desempenho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
